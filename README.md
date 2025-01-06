@@ -1,10 +1,12 @@
-<img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="coding" height="310" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+
 
 # Hello world 👋, I'm Rajan Srivastava  
 
 A passionate Software Developer and Open Source enthusiast from India.  
 🌱 Currently learning Full-Stack Development.  
-👨‍💻🚀Feel free to browse my repositories, and let me know if you find anything interesting. 
+👨‍💻🚀Feel free to browse my repositories, and let me know if you find anything interesting.
 🤝 Looking to collaborate on **Web Development and Competitive Programming Projects.**  
 
 
@@ -16,7 +18,7 @@ A passionate Software Developer and Open Source enthusiast from India.
 <p>
   <a href="https://www.linkedin.com/in/rajan-srivastava-42184a243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a> 
   <a href="mailto:srivastavarajan8899@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
