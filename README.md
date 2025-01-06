@@ -30,7 +30,7 @@ A passionate Software Developer and Open Source enthusiast from India.
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,mysql,cpp,python,django,git,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,mysql,cpp,python,django,github,codepen,visualstudio,&theme=dark" />
 </a>
 </p>
 
@@ -50,6 +50,7 @@ A passionate Software Developer and Open Source enthusiast from India.
 
 
 
+
 ### 🔥 GitHub Streak Stats:
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajanshrivastava88&theme=dark" alt="GitHub Streak" /></a>
@@ -59,7 +60,7 @@ A passionate Software Developer and Open Source enthusiast from India.
 
 ### 🚀 Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanshrivastava88&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanshrivastava88&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -68,4 +69,5 @@ A passionate Software Developer and Open Source enthusiast from India.
 ### 👥 Visitor Count:
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7Brajanshrivastava88%7D/count.svg" alt="visitor badge"/></p>
+
 
