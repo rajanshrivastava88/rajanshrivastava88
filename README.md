@@ -49,7 +49,7 @@ A passionate Software Developer and Open Source enthusiast from India.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajanshrivastava88&show_icons=true&theme=radical)
 
 
-
+---
 
 ### 🔥 GitHub Streak Stats:
 
@@ -60,7 +60,7 @@ A passionate Software Developer and Open Source enthusiast from India.
 
 ### 🚀 Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanshrivastava88&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanshrivastava88&layout=compact&theme=radical)
 
 
 
