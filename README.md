@@ -7,7 +7,7 @@
 A passionate Software Developer and Open Source enthusiast from India.  
 🌱 Currently learning Full-Stack Development.  
 👨‍💻🚀Feel free to browse my repositories, and let me know if you find anything interesting.
-🤝 Looking to collaborate on **Web Development and Competitive Programming Projects.**  
+🤝Looking to collaborate on **Web Development and Competitive Programming Projects.**  
 
 
 
