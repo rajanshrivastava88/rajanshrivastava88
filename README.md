@@ -45,7 +45,7 @@ A passionate Software Developer and Open Source enthusiast from India.
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajanshrivastava88&show_icons=true&theme=radical)
+![Rajanshrivastava88's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajanshrivastava88&count_private=true&show_icons=true&theme=radical)
 
 
 ---
