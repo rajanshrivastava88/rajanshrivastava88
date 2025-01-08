@@ -29,7 +29,7 @@ A passionate Software Developer and Open Source enthusiast from India.
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,mysql,cpp,python,django,github,codepen,visualstudio,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,mysql,cpp,python,django,sqlite,github,git,codepen,vscode,pycharm,sublime,blender&theme=dark" />
 </a>
 </p>
 
