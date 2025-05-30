@@ -15,10 +15,10 @@ A passionate Software Developer and Open Source enthusiast from India.
 ### 🌐 Connect with me:
 
 <p>
-  <a href="https://www.linkedin.com/in/rajan-srivastava-42184a243/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="mailto:srivastavarajan8899@gmail.com" target="_blank">
+  <a href="mailto:#" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
